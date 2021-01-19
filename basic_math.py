@@ -24,6 +24,7 @@ def get_greatest(number_list):
             99
     """
     greatest_number = max(number_list)
+    
     return greatest_number
 
 
